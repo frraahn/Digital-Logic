@@ -9,4 +9,4 @@ This lab emphasised on a number of practice problems relating to combinational l
 ### Lab 2 : Combinational Logic Circuit Design Simulation (Deeds)
 We produced digital logic circuit, generating truth table and timing diagram as well as exposed to a complete cycle process of a combinatioal circuit design and simulate using Deeds Simulator App.
 
-### Lab 3 : 
+### Lab 3 : Synchronous Digital Counter
