@@ -15,6 +15,8 @@ This lab emphasised on a number of practice problems relating to combinational l
 We produced digital logic circuit, generating truth table and timing diagram as well as exposed to a complete cycle process of a combinatioal circuit design and simulate using Deeds Simulator App.
 
 #### Lab 3 : Synchronous Digital Counter
+<img src=![photo_2024-01-20_17-30-23](https://github.com/frraahn/Digital-Logic/assets/147979222/fac27249-0939-429c-b247-0f7b8e9af476) width=400 height=280>
+
 
 # REFLECTION
 <details>
