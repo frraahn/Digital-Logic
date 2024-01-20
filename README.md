@@ -1,5 +1,6 @@
 # Digital-Logic
-Digital electronics is the foundation of all microprocessor-based systems found in computers, robots, automobiles, and industrial control systems. This course introduces the students to digital electronics and provides a broad overview of many important concepts, components, and tools. Students will get up-to-date coverage of digital fundamentals-from basic concepts to programmable logic devices. Laboratory experiments provide hands-on experience with the simulator software, actual devices and circuits studied in the classroom.
+In this course, students take an overview of several ideas, parts and tools as well as an introduction to digital electronics. We were keep up-to-date to the fundamental ideas of digital to programmable logic circuits that were be covered detail in this subject.
+
 - [Lab 1](https://github.com/frraahn/Digital-Logic/blob/main/README.md#lab-1--combinational-logic-circuit)
 - [Lab 2](https://github.com/frraahn/Digital-Logic/blob/main/README.md#lab-2--combinational-logic-circuit-design-simulation-deeds)
 - [Lab 3](https://github.com/frraahn/Digital-Logic/blob/main/README.md#lab-3--synchronous-digital-counter)
