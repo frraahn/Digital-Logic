@@ -3,16 +3,17 @@ Digital electronics is the foundation of all microprocessor-based systems found 
 - [Lab 1](https://github.com/frraahn/Digital-Logic/blob/main/README.md#lab-1--combinational-logic-circuit)
 - [Lab 2](https://github.com/frraahn/Digital-Logic/blob/main/README.md#lab-2--combinational-logic-circuit-design-simulation-deeds)
 - [Lab 3](https://github.com/frraahn/Digital-Logic/blob/main/README.md#lab-3--synchronous-digital-counter)
+- [Reflection](https://github.com/frraahn/Digital-Logic/blob/main/README.md#reflection)
 - 
-### Lab 1 : Combinational Logic Circuit
+#### Lab 1 : Combinational Logic Circuit
 This lab emphasised on a number of practice problems relating to combinational logic circuit testing and breadboarding.
 
 <img src="https://github.com/frraahn/Digital-Logic/assets/147979222/a83fca5a-c72a-4f0b-8c6c-92e3e306fe10" width=300 height=400>
 
-### Lab 2 : Combinational Logic Circuit Design Simulation (Deeds)
+#### Lab 2 : Combinational Logic Circuit Design Simulation (Deeds)
 We produced digital logic circuit, generating truth table and timing diagram as well as exposed to a complete cycle process of a combinatioal circuit design and simulate using Deeds Simulator App.
 
-### Lab 3 : Synchronous Digital Counter
+#### Lab 3 : Synchronous Digital Counter
 
 # REFLECTION
 <details>
