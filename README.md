@@ -14,6 +14,7 @@ We produced digital logic circuit, generating truth table and timing diagram as 
 
 ### Lab 3 : Synchronous Digital Counter
 
+# REFLECTION
 <details>
 <summary>Reflection</summary>
 This course helped me to understand how computers work inside. I gained knowledge about gates, circuits and how to make things with binary numbers. Even though this course was new to me, I always looking forward to use this knowledge to create more exciting things in the future!
