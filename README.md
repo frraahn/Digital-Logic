@@ -1,5 +1,6 @@
 # Digital-Logic
 Digital electronics is the foundation of all microprocessor-based systems found in computers, robots, automobiles, and industrial control systems. This course introduces the students to digital electronics and provides a broad overview of many important concepts, components, and tools. Students will get up-to-date coverage of digital fundamentals-from basic concepts to programmable logic devices. Laboratory experiments provide hands-on experience with the simulator software, actual devices and circuits studied in the classroom.
+- [Lab 1](# Lab 1 : Combinational Logic Circuit)
 
 ### Lab 1 : Combinational Logic Circuit
 This lab emphasised on a number of practice problems relating to combinational logic circuit testing and breadboarding.
@@ -10,3 +11,8 @@ This lab emphasised on a number of practice problems relating to combinational l
 We produced digital logic circuit, generating truth table and timing diagram as well as exposed to a complete cycle process of a combinatioal circuit design and simulate using Deeds Simulator App.
 
 ### Lab 3 : Synchronous Digital Counter
+
+<details>
+<summary>Reflection</summary>
+This course helped me to understand how computers work inside. I gained knowledge about gates, circuits and how to make things with binary numbers. Even though this course was new to me, I always looking forward to use this knowledge to create more exciting things in the future!
+</details>
