@@ -4,7 +4,7 @@ Digital electronics is the foundation of all microprocessor-based systems found 
 - [Lab 2](https://github.com/frraahn/Digital-Logic/blob/main/README.md#lab-2--combinational-logic-circuit-design-simulation-deeds)
 - [Lab 3](https://github.com/frraahn/Digital-Logic/blob/main/README.md#lab-3--synchronous-digital-counter)
 - [Reflection](https://github.com/frraahn/Digital-Logic/blob/main/README.md#reflection)
-- 
+  
 #### Lab 1 : Combinational Logic Circuit
 This lab emphasised on a number of practice problems relating to combinational logic circuit testing and breadboarding.
 
